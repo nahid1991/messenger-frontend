@@ -4,8 +4,13 @@
 .navbar.center .navbar-inner .nav {
     float: none;
     display:inline-block;
+    margin-top: 2rem;
 }
 
 input{
   width: 100%;
+}
+
+textarea.custom{
+  width: 100% !important;
 }
