@@ -3,7 +3,7 @@
 }
 .navbar.center .navbar-inner .nav {
   float: none;
-  display:inline-block;
+  display: inline-block;
   margin-top: 2rem;
 }
 .pre-scrollable {
@@ -12,10 +12,18 @@
 
 .custom-btn {
   width: 100% !important;
+  display: inline-block;
+  margin-bottom: 6px;
 }
 
 input {
   width: 100%;
+}
+
+.thumb-friend {
+  width: 30%;
+  border-radius: 50px;
+  float: left;
 }
 
 textarea.custom {
@@ -30,6 +38,12 @@ html {
   height: 100vh !important;
   /*margin-bottom: 10px !important;*/
 }
+
+/*.custom-name{
+  margin-top: 6%;
+  width: 50%;
+  overflow: hidden;
+}*/
 
 /*-webkit-scrollbar {
     width: 1em;
