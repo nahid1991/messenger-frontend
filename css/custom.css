@@ -72,11 +72,16 @@ textarea.custom {
   /*margin-bottom: 10px !important;*/
 }
 
-/*.custom-name{
-  margin-top: 6%;
+.custom-name-top{
+  margin-top: 4%;
   width: 50%;
   overflow: hidden;
-}*/
+}
+
+.custom-name{
+  width: 50%;
+  overflow: hidden;
+}
 
 /*-webkit-scrollbar {
     width: 1em;
