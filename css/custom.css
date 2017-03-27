@@ -51,8 +51,9 @@ input {
 
 .thumb-friend {
   width: 30%;
-  border-radius: 50px;
+  /*border-radius: 50%;*/
   float: left;
+  margin-right: 10px;
 }
 
 textarea.custom {
@@ -62,6 +63,7 @@ textarea.custom {
 /*html {
   background-color: yellow;
 }*/
+
 
 .custom-div {
   height: 100vh !important;
