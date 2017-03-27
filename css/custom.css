@@ -12,6 +12,21 @@
   overflow: auto !important;
 }
 
+h4{
+  font-weight: bold;
+  font-style: oblique;
+}
+
+p{
+  font-weight: bold;
+  font-style: oblique;
+}
+
+a{
+  font-weight: bold;
+  font-style: oblique;
+}
+
 .pre-scrollable::-webkit-scrollbar {
   width: 8px;
   border-radius: 5px;
