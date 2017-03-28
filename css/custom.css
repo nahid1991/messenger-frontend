@@ -97,6 +97,11 @@ textarea.custom {
   /*margin-bottom: 10px !important;*/
 }
 
+.custom-div-sm {
+  height: 50vh !important;
+  /*margin-bottom: 10px !important;*/
+}
+
 .custom-name-top{
   margin-top: 4%;
   width: 50%;
