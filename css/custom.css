@@ -70,6 +70,7 @@ input {
 textarea {
   font-weight: bold;
   font-style: oblique;
+  text-align: center;
 }
 
 .thumb-friend {
