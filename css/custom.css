@@ -67,6 +67,11 @@ input {
   font-style: oblique;
 }
 
+textarea {
+  font-weight: bold;
+  font-style: oblique;
+}
+
 .thumb-friend {
   width: 8rem;
   height: 8rem;
